@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+.subtitle {
+	color: grey;
+}
+
+.title {
+	border: #5BB400 thick double;
+}
+
+body {
+	background-color: #FFE0A8;
+}
+
+button {
+	background-color: indianred;
+	border-color: black;
+}
+
+input {
+	border-color: black;
+}
