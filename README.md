@@ -1,6 +1,6 @@
 # Math-Challenge
 
-<a href="https://justicepro.github.io/Math-Challenge/"><h1>Play Link</h1></a>
+<a href="https://justicepro.github.io/Math-Challenge/"><h2>Play Link</h2></a>
 <h1>What Langauge Did I use?</h1>
 <h1>Javascript</h1>
 <h1>What does it do?</h1>
