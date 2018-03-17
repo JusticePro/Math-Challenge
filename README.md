@@ -1,8 +1,8 @@
 # Math-Challenge
 
 <a href="https://justicepro.github.io/Math-Challenge/"><h2>Play Link</h2></a>
-<h1>What Langauge Did I use?</h1>
-<h1>JavaScript, Html, CSS</h1>
+<h1>What Langauge(s) Did I use?</h1>
+<h2>JavaScript, Html, CSS</h2>
 <h1>What does it do?</h1>
 It's a randomly generated math quiz that goes on forever.<br>
 <h1>How do I use it</h1>
